@@ -1,8 +1,6 @@
 # TicTacToe
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/tic_tac_toe`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This gem taught me how to create a gem. Additionally, the tic tac toe game was a great exercise in object oriented programming.
 
 ## Installation
 
@@ -32,7 +30,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/tic_tac_toe.
+Bug reports and pull requests are welcome on GitHub at https://github.com/bcoffin9/tic_tac_toe.
 
 ## License
 
