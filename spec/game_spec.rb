@@ -1,3 +1,5 @@
+require "spec_helper"
+
 module TicTacToe
     RSpec.describe Game do
         

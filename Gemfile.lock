@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    tic_tac_toe (0.1.0)
+    tic_tac_toe (1.1.0)
 
 GEM
   remote: https://rubygems.org/
