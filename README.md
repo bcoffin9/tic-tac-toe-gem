@@ -1,6 +1,6 @@
 # TicTacToe
 
-This gem taught me how to create a gem. Additionally, the tic tac toe game was a great exercise in object oriented programming.
+This gem taught me how to create a gem. Additionally, the tic tac toe game was a great exercise in object oriented programming. Run either of the three files in the example folder to try out a game. This project as of now does not have validation for input, so erroneous input will break the game. Have fun and let me know if you have any questions!!
 
 ## Installation
 
